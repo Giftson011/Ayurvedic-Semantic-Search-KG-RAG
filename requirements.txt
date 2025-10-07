@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain_experimental
+langchain_groq
+neo4j
+pypdf
+pymupdf
+sentence-transformers
+torch
+transformers
+accelerate
+bitsandbytes
+rouge-score
+ipywidgets
+huggingface_hub
+pandas
+numpy
